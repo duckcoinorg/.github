@@ -5,7 +5,7 @@
 Duck – is the official mascot of Telegram, regularly featured across. With one of the best meme narratives on Telegram, Duck will be making waves in the crypto community.
 
 ## Our resources
-- ~~https://duckcoin.org/~~ (Temporary unavailable)
+- https://duckcoin.org/
 - https://docs.duckcoin.org/
 - https://t.me/linksappbot/app?startapp=duckcoin
   
