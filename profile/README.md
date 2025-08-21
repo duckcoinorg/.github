@@ -9,3 +9,8 @@ Duck – is the official mascot of Telegram, regularly featured across. With one
 - https://docs.duckcoin.org/
 - https://t.me/linksappbot/app?startapp=duckcoin
   
+## Our products
+- https://t.me/flappyduck_bot - FlappyDuck, S2E game on TMA
+- https://t.me/wallet_duck_bot - DuckWallet, custodial wallet on TMA
+- https://wallet.duckcoin.org/api/v1 - DuckWallet payments service
+- https://duckseek.vercel.app - AI powered search engine for Telegram
